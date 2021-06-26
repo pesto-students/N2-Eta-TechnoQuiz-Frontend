@@ -37,15 +37,32 @@ REACT_APP_SALT =
 
 - We have used Standard jira practices to create our workflow smooth and transparent
 
-![JIRA_1](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/Frontend_Ticket_1_qLCfMiwD9.png)
+![JIRA_1](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/Jira_Ticket_2_ZEWTFnFiy.png)
+
 
 - With custom automation rules to keep everyone in the loop
+
 ![JIRA_2](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/Jira_Automation_1-MJ7QTiw.png)
+
+
+- With Slack Integration
+
+|Create Issues From Slack Itself|
+|-----|
+|![create](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_TASK_CREATE_V2Y5g-cGW.png)
+
+|Issue Branch Created|Feature Complete|
+|-----|-----|
+|![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)|
+|Raise PR|Merge PR|
+|-----|-----|
+|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)|
 
 
 ## Error Monitoring and Logs
 
 - Application Monitoring and Error Tracking through [Sentry](https://sentry.io/organizations/divyanshu-verma/projects/technoquiz_frontend/?project=5830909) 
+
 ![sentry](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/Sentry_-FM9pO90u.png)
 
 
@@ -54,22 +71,21 @@ REACT_APP_SALT =
 - [Design](https://www.figma.com/file/Mxwp4pQNCL6pdhUUiYJDCR/TechnoQuiz)
 - [HLA](https://ik.imagekit.io/16zqnfdfuhh/TQ_Backend/HLA_Update_dhq1FPVE9.png)
 
+
 ## Tech Stack
 
 - React
 - Redux
-- NodeJS
-- Express JS
-- MongoDb Cloud
+- React-Testing-Library, JEST
+
 
 ## Tools Used
 
-- Figma
-- Draw.io
-- Sentry
-- Jira Software
-- AWS
-- Netlify
+> Figma,Draw.io (Design)
+> Sentry (Monitoring)
+> Jira Software (Project Board)
+> AWS, Netlify (CI/CD)
+
 
 ## Contact
 - Divyanshu Verma [divyanshuverma2396@gmail.com](divyanshuverma2396@gmail.com)
