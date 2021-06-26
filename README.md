@@ -53,10 +53,10 @@ REACT_APP_SALT =
 
 |Issue Branch Created|Feature Complete|
 |-----|-----|
-|![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)|
+|![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)
 |Raise PR|Merge PR|
 |-----|-----|
-|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)|
+|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)
 
 
 ## Error Monitoring and Logs
