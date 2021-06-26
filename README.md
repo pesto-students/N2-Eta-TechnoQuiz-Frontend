@@ -51,8 +51,8 @@ REACT_APP_SALT =
 |-----|
 |![create](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_TASK_CREATE_V2Y5g-cGW.png)
 
-|Issue Branch Created|Feature Complete||Raise PR|Merge PR|
-|-----|-----|-----|-----|
+|Issue Branch Created|Feature Complete|Raise PR|Merge PR|
+|----|----|----|----|
 |![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)
 
 
