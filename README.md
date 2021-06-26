@@ -51,12 +51,9 @@ REACT_APP_SALT =
 |-----|
 |![create](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_TASK_CREATE_V2Y5g-cGW.png)
 
-|Issue Branch Created|Feature Complete|
-|-----|-----|
-|![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)
-|Raise PR|Merge PR|
-|-----|-----|
-|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)
+|Issue Branch Created|Feature Complete||Raise PR|Merge PR|
+|-----|-----|-----|-----|
+|![branch](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_BRANCH_CREATE_wZE043MYj.png)|![feature](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_Featrure_COmplete_5vGWCvPXj.png)|![Raise](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_PR_RAISED_bhQsEo4Gb.png)|![Merge](https://ik.imagekit.io/16zqnfdfuhh/TQ_Frontend/JIRA_MERGED_7-Pl-8iz8.png)
 
 
 ## Error Monitoring and Logs
@@ -81,10 +78,10 @@ REACT_APP_SALT =
 
 ## Tools Used
 
-> Figma,Draw.io (Design)
-> Sentry (Monitoring)
-> Jira Software (Project Board)
-> AWS, Netlify (CI/CD)
+- Figma,Draw.io (Design)
+- Sentry (Monitoring)
+- Jira Software (Project Board)
+- AWS, Netlify (CI/CD)
 
 
 ## Contact
